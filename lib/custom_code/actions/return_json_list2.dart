@@ -21,6 +21,4 @@ List<dynamic> returnJsonList2(String? jsonString) {
     // If not a list, return an empty list or handle as needed
     return [];
   }
-
-  /// MODIFY CODE ONLY ABOVE THIS LINE
 }

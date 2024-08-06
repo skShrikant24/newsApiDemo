@@ -20,7 +20,7 @@ String? returnDate(String? dateString) {
 
     // Format the DateTime object to the desired format
     String formattedDate = dateTime.toIso8601String();
-
+//2024-08-05T11:15:49Z
     // Extract the date part (YYYY-MM-DD) from the formatted string
     String dateOnly = formattedDate.split('T')[0];
 
