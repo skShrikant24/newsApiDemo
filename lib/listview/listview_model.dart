@@ -18,6 +18,8 @@ class ListviewModel extends FlutterFlowModel<ListviewWidget> {
   // Stores action output result for [Custom Action - returnJsonList2] action in Listview widget.
   List<dynamic>? jsonlist;
   // Stores action output result for [Custom Action - returnJsonList2] action in Button widget.
+  List<dynamic>? resuleinall;
+  // Stores action output result for [Custom Action - returnJsonList2] action in Button widget.
   List<dynamic>? resulein;
   // Stores action output result for [Custom Action - returnJsonList2] action in Button widget.
   List<dynamic>? resuleinCopy;
